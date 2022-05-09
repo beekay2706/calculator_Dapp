@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-calculator_dapp = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+calculator_dapp = "8UsT1RSVr7mYLPfMQ6FB6y5PhtW9ugXXuK7p5KoqMW9N"
 
 [registry]
 url = "https://anchor.projectserum.com"
